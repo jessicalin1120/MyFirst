@@ -1,0 +1,2 @@
+# MyFirst
+Python學習
